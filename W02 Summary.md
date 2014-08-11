@@ -41,6 +41,6 @@ Data Scientist Toolbox 第二周 Summary
 ### Markdown
 图片来自[马克飞象](http://maxiang.info/)帮助
 
-![Alt text](./1405651076137.png)
+![Markdown 样式](./w02-summary-markdown.png)
 
 

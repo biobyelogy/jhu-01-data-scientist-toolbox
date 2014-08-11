@@ -30,6 +30,7 @@ What are characteristics of good questions on the message boards? Select all tha
 
 ## Question 5
 Which of the following packages provides machine learning functionality? Select all that apply
+
 1. 搜索 "R package"；
 2. 找到一张按字母顺序排列的 R package 列表 ( http://cran.r-project.org/web/packages/available_packages_by_name.html )，在其中所有选项中的 package 是否带有 machine learning 功能；
 3. PPT 提到了一部分选项，但没有覆盖所有选项（每次 quiz 选项会变化）。
